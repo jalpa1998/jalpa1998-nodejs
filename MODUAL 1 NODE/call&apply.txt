@@ -1,0 +1,7 @@
+Q10. What is the difference between Call & Apply? 
+
+the difference is: 
+
+ssThe call() method takes arguments separately. 
+
+The apply() method takes arguments as an array.
